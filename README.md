@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hi there 👋 I`m Kang YunSik
 
-<!--
-**Kang-YunSik/Kang-YunSik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 교육
 
-Here are some ideas to get you started:
+---
+천재IT교육센터 풀스택 3기  (23.09.19~)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+### 기술스택
+
+---
+
+<div>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">  
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+ <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+ </div> 
+<br/>
+
+<div>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+ <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+ </div> 
+<br/>
+
+   
+### 프로젝트   
+---
+
+| 기간 | 항목 | 장소 |
+| --- | --- | --- |
+| 23.10.16~27 | <a href="https://github.com/Kang-YunSik/Web_Selfpj_gilbut">반응형 웹 페이지 제작</a> | 천재IT교육센터(개인) |
+| 23.10.16~27 | <a href="https://github.com/Kang-YunSik/Web_Selfpj_gilbut">게시판 CRUD 기능 개발 </a> | 천재IT교육센터(개인) |
+
+
+<br>   
+
