@@ -41,7 +41,7 @@
 | 기간 | 항목 | 장소 |
 | --- | --- | --- |
 | 23.10.16~27 | <a href="https://github.com/Kang-YunSik/Web_Selfpj_gilbut">반응형 웹 페이지 제작</a> | 천재IT교육센터(개인) |
-| 23.10.16~27 | <a href="https://github.com/Kang-YunSik/Web_Selfpj_gilbut">게시판 CRUD 기능 개발 </a> | 천재IT교육센터(개인) |
+| 23.10.16~27 | <a href="https://github.com/Kang-YunSik/java_selfpj_thisisjava">게시판 CRUD 기능 개발 </a> | 천재IT교육센터(개인) |
 
 
 <br>   
