@@ -2,7 +2,7 @@
 ### 교육
 
 ---
-천재IT교육센터 풀스택 3기  (23.09.19~)
+asdf
 
 <br/>
 
@@ -38,10 +38,10 @@
 ### 프로젝트   
 ---
 
-| 기간 | 항목 | 장소 |
-| --- | --- | --- |
-| 23.10.16~27 | <a href="https://github.com/Kang-YunSik/Web_Selfpj_gilbut">반응형 웹 페이지 제작</a> | 천재IT교육센터(개인) |
-| 23.10.16~27 | <a href="https://github.com/Kang-YunSik/java_selfpj_thisisjava">게시판 CRUD 기능 개발 </a> | 천재IT교육센터(개인) |
+| 기간 | 항목 | 사용기술 | 개인/팀 |
+| --- | --- | --- | --- |
+| 23.10.16~27 | <a href="https://github.com/Kang-YunSik/Web_Selfpj_gilbut">반응형 웹 페이지 제작</a> | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | 개인 |
+| 23.10.16~27 | <a href="https://github.com/Kang-YunSik/java_selfpj_thisisjava">게시판 CRUD 기능 개발 </a> | <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> | 개인 |
 
 
 <br>   
